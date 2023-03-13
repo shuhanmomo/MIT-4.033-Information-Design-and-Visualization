@@ -26,9 +26,9 @@ and provides insights into the essence of cocktails - the balance between
 Sour, Sugar, Alcohol, and Bitter.
 
 ### In the Repo
-Icon: stores the cocktail glass pngs
-Libraries: some libraries used in the main js script
-Table: stores the scraped CSV data
-Demo3.js: the main JS script for the project
+Icon: stores the cocktail glass pngs  
+Libraries: some libraries used in the main js script  
+Table: stores the scraped CSV data  
+Demo3.js: the main JS script for the project  
 
 
