@@ -11,6 +11,9 @@ This project showcases the potential of data visualization in enhancing the unde
 **Icon**: stores the cocktail glass pngs  
 **Libraries**: some libraries used in the main js script  
 **Table**: stores the scraped CSV data  
-**Demo3**.js: the main JS script for the project  
+**Demo3**.js: the main JS script for the project 
+
+### User Interface
+![interface](https://github.com/shuhanmomo/MIT-4.033-Information-Design-and-Visualization/blob/9d909db68456a6ca27a378c5553532303a3be066/img/cocktail%20interface.png)
 
 
